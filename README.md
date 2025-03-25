@@ -1,4 +1,4 @@
-🎬 Cinema Retail Operations: Customer Retention & Revenue Growth 📊
+#🎬 Cinema Retail Operations: Customer Retention & Revenue Growth 📊
 📚 Project Overview
 This project focuses on enhancing customer retention and boosting revenue for a leading cinema retail organization by utilizing data-driven insights. The goal is to identify customer behavior patterns and apply machine learning models to predict churn and personalize marketing strategies.
 
